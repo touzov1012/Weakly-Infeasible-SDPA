@@ -37,4 +37,4 @@ Classically, weakly infeasible SDPs were simply viewed as instances in which <im
 * as SDPs in which facial reduction certificates are necessary to certify infeasibility. [(Lourenco, Muramatsu, Tsuchiya 2015)](https://arxiv.org/abs/1507.06843)
 * as difficult to generate test cases for SDP solvers. [(Waki 2011)](http://www.optimization-online.org/DB_HTML/2011/07/3086.html)
 
-The code base presented here gives us an algorithm for solving the problem presented in the last of these bullets in its entirety.
+The code base presented here gives us an algorithm for solving the problem presented in the last of these bullets in its entirety by producing suitable matrices <a><img src="https://latex.codecogs.com/svg.latex?A_1,\dots,A_m" /></a> and right hand side vector <a><img src="https://latex.codecogs.com/svg.latex?b"  /></a>.
