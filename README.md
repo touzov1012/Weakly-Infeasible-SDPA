@@ -1,8 +1,5 @@
 # Weakly Infeasible Semidefinite Program Algorithm
 
-An algorithm to generate any weakly infeasible SDP and bad projection of the semidefinite cone.
-
-## Background
 A semidefinite program (SDP) is a class of optimization problem of the form
 
 <p align="center"><img src="https://latex.codecogs.com/svg.latex?\begin{array}{rccl}&space;\inf&space;&&space;C\bullet&space;X&space;\\&space;s.t.&space;&&space;\mathcal{A}(X)&space;&&space;=&space;&&space;b\\&space;&&space;X&space;&&space;\succeq&space;&&space;0&space;\end{array}"  /></p>
