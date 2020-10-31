@@ -33,7 +33,7 @@ Classically, weakly infeasible SDPs were simply viewed as instances in which <im
 * as hard SDPs, identified as feasible even by state-of-the-art solvers such as Mosek or SDPA-GMP. [(Liu, Pataki 2017)](https://arxiv.org/abs/1507.00290)
 * as infeasible and ill-posed SDPs with no convergence guarantees on classifying feasibility with [IPMs](https://en.wikipedia.org/wiki/Interior-point_method) based around condition metrics. [(Pena, Renegar 2000)](https://link.springer.com/article/10.1007/s101070050001)
 * as bad projections of the semidefinite cone with algebraic characterizations of related bad subspaces. [(Jiang, Sturmfels 2020)](https://arxiv.org/abs/2006.09956)
-* as instances in the Lasserre hierarchy of polynomial optimization for certain classes of polynomial optimization problems. [(Henrion, Lasserre)](https://link.springer.com/chapter/10.1007/10997703_15)
+* as instances in the Lasserre hierarchy of polynomial optimization for certain classes of polynomial optimization problems. [(Henrion, Lasserre 2005)](https://link.springer.com/chapter/10.1007/10997703_15)
 * as SDPs in which facial reduction certificates are necessary to certify infeasibility. [(Lourenco, Muramatsu, Tsuchiya 2015)](https://arxiv.org/abs/1507.06843)
 * as difficult to generate test cases for SDP solvers. [(Waki 2011)](http://www.optimization-online.org/DB_HTML/2011/07/3086.html)
 
