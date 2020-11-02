@@ -80,3 +80,5 @@ Optionally, we can also apply congruence transforms and rotations of our problem
 ```
 
 Prior to rotation, the steps above produce the instance defined by the two sequences.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/26099083/97892286-d1f91e00-1cfd-11eb-87f4-e34981f619fe.png" width=440></p>
