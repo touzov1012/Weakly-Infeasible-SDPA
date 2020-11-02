@@ -66,7 +66,7 @@ Execute the main algorithm to generate a weakly infeasible SDP with certificate 
 Append optional additional constraints to the problem.
 
 ```python
-[A, b] = ExtendWeakSDE(A, b, X, 4)
+[A, b] = ExtendWeakSDE(A, b, X, 2)
 ```
 
 Optionally, we can also apply congruence transforms and rotations of our problem to make a *messy* instance.
